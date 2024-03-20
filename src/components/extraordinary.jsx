@@ -1,10 +1,10 @@
 import React from "react";
-import Hero from "../asset/hero.png";
+import endi from "../asset/endi.png";
 function Extraordinary() {
   return (
     <section>
       <div className="h-[88vh] w-full md:h-[70vh] md:px-[0] md:py-[20px]">
-        <img src={Hero} alt={Hero} className="w-full h-[88vh] absolute z-[-1] md:h-[70vh]" />
+        <img src={endi} alt={endi} className="w-full h-[88vh] absolute z-[-1] md:h-[70vh]" />
         <div className="w-full flex justify-start items-center h-full md:w-full">
             <div className="w-3/5 ml-[80px] md:m-0 md:p-[20px] md:w-full">
                 <h1 className="font-medium text-[white] text-[47px] text-left leading-[70px]">
